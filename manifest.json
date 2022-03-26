@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "究極のニワトリ",
+        "name": "金のタマゴはもう古い！",
+        "uuid": "a123cef8-17f6-42e7-b4b6-69fd32d4cb03",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 18, 10 ]
+    },
+    "modules": [
+        {
+            "description": "究極のニワトリ behavior pack",
+            "type": "data",
+            "uuid": "92a4ee20-045a-47a3-b831-ca9a909a4977",
+            "version": [0, 0, 1]
+        }
+    ]
+}
